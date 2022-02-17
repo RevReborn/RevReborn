@@ -9,6 +9,7 @@ Revengeance Reborn is the sequel of Death Reborn, aiming to enhance the best co-
 # Features
 * Enhancement to visual such as muzzleflashes, new skyboxes and color correction and more!
 * Additional Improvement and fixes presents while on Singleplayer/Local Server, including Bot Improvements, Dynamic Lights, Give and Take, and much more!
+* New Gun Range map which allows you to practice!
 * This collection does not impact performance, compared with other collections.
 * Supports both Singleplayer/Multiplayer!
 * And many more features and improvements which cannot be listed.
