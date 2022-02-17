@@ -20,6 +20,8 @@ Coming Soon!
 Coming Soon!
 
 # Note
+Please report any issue on [EnhancedMod main repository](https://github.com/MysticMoonlight/EnhancedMod).
+
 Valve, the Valve logo, Steam, the Steam logo, Left 4 Dead, the Left 4 Dead logo, Source, the Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
 
 Revengeance Reborn is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.
