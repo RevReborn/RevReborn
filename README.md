@@ -4,7 +4,7 @@
 > 
 > \- Catchphrase of Revengeance Reborn
 
-Revengeance Reborn is the sequel of Death Reborn, aiming to enhance the best co-op zombie shooter, Left 4 Dead 2.
+Revengeance Reborn is the sequel of Death Reborn, aiming to enhance Left 4 Dead 2, while keeping the original atmosphere of the game.
 
 # Features
 * Enhancement to visual such as muzzleflashes, new skyboxes and color correction and more!
