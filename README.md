@@ -1,6 +1,6 @@
 ![Revengeance Reborn Banner (Transparent)](https://user-images.githubusercontent.com/25527589/151653496-11713ce1-87db-452a-b9d9-9bfe7f0cc22c.png)
 
-> **"It's time for revengeance..."**
+> **"Ready for revengeance?"**
 > 
 > \- Catchphrase of Revengeance Reborn
 
